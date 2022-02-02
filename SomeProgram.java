@@ -10,6 +10,7 @@ public class SomeProgram {
 
 	  public void manageRockets() {
         // TODO implement
+		  for 
     }
  manage-rockets
 }
